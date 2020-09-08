@@ -3,6 +3,8 @@ ClayBeaboutDataWrangler
 
 EECS 731 Project 1
 
+NOTE: Refer to process_and_results.md for more indepth details about the exploratory data analysis over the course of this project. The Jupyter Notebook used during this project is housed under notebooks with the name suicide_rates_notebook
+
 Project Organization
 ------------
 
