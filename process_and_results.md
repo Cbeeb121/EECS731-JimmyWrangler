@@ -54,7 +54,7 @@ From prior research to this project, I knew suicide rates across the world inclu
 
 ## Results 
 
-- African countries hold a high number of suicidal rates. The top five highest female suicide rates by country all come from Africa. The countries include Lesotho, Uganda, Nigeria, Liberia and Zimbabwe. Zimbabwe and Lithuania top the list for highest 
+- African countries hold a high number of suicidal rates. The top five highest female suicide rates by country all come from Africa. The countries include Lesotho, Uganda, Nigeria, Liberia and Zimbabwe. Zimbabwe and Lithuania top the list for highest suicide rates among men.
 
 - China (18+ per every 100,000), France (15+) and Russia (11+) ranked among the highest female suicide rates of the top five World Power nations. Russia (65+) staggered above the other four nations with the highest suicidal rate for men. The United Kingdom of Great Britain held the lowest suicidal rates of the Top Five World Powers for both men and women. 
 
